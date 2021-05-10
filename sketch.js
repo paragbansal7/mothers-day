@@ -3,8 +3,8 @@ const World= Matter.World;
 const Bodies = Matter.Bodies;
 
 function preload() {
- bi = loadImage("op/abc.jpg")
- abc = "op/mom.jpg"
+ //bi = loadImage("op/abc.jpg")
+ //abc = "op/mom.jpg"
 }
 
 function setup(){
