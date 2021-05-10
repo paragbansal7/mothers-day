@@ -37,7 +37,7 @@ function setup(){
 }
 
 function draw(){
-    //background(bi)
+    background("black")
     Engine.update(engine);
 
 
